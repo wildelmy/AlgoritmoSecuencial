@@ -1,0 +1,24 @@
+body {
+    background: #ee9ca7;
+    background: linear-gradient(to right, #ffdde1, #ee9ca7);
+
+}
+.caja { 
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: #ffffff; 
+    font-size: 18px; 
+    font-weight: 400; 
+    text-align: center; 
+    text-shadow: 2px 2px 2px #000000;
+    width: 800px;
+    margin: auto;
+    background: #c359d6; 
+    overflow: hidden; 
+    padding: 20px; 
+    border-radius: 35px 0px 35px 0px; 
+    -moz-border-radius: 35px 0px 35px 0px; 
+    -webkit-border-radius: 35px 0px 35px 0px; 
+    border: 2px solid #5878ca;
+    -webkit-box-shadow: 4px 6px 22px -6px rgba(0,0,0,0.99); 
+    box-shadow: 4px 6px 22px -6px rgba(0,0,0,0.99);
+}
